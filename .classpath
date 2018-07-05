@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="javax.servlet.jar"/>
+	<classpathentry kind="lib" path="catalina-ant-5.0.16.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
